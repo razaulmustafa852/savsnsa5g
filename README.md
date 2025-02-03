@@ -1,4 +1,7 @@
-# Investigating the Impact of Channel Metrics in 5G NSA and SA on YouTube and 360 Video
-
+# Investigating the Impact of Channel Metrics in 5G NSA and SA on Video Streaming QoE
 Evaluating the Quality of Experience~(QoE) of YouTube video streaming from a Mobile Network Operator (MNO) perspective is challenging. 
 The research community is actively working on evolved approaches to deliver improved end-users' QoE and provide adequate methods to manage increased video traffic demands, including 5G-aware machine learning stall, throughput and quality shifts prediction. In this work, we collected a real-time dataset using commercial 5G networks by running 4K videos using  YouTube as a baseline. While in the background, we monitor cellular Key Performance Indicators (KPIs) comprised of Channel Level Metrics (CLM), i.e., RSRQ, RSRP and SNR, among other metrics with the smallest granularity of 1 second. We save both YouTube QoE and CLM in the database for further analysis. We consider a rich set of use cases for this campaign, e.g., Static Indoor, Low- Moderate- and High Mobility.  Next, we present a correlation of channel-related metrics KPIs in 5G- SA and NSA with the objective QoE of YouTube, i.e., stall (buffering) and quality shifts. We also addressed which deployment (SA, NSA) offers better QoE for immersive 360 videos under mobility scenarios.  Our findings indicate that channel metrics indeed influence YouTube's QoE, and both 5G deployments offer benefits under different network settings and environments. Our anonymized dataset enables other researchers to delve deeper into this subject and utilize these traces to establish a more definitive connection between KPIs and QoE.
+
+Data is available on this link:
+
+https://drive.google.com/drive/folders/1tz8HT1FiCaP9Bl9BS0QttHkyrfJp1CCa?usp=sharing 
