@@ -41,4 +41,6 @@ Data is available on this link:
   note         = {Presented at IEEE/IFIP Network Operations and Management Symposium (NOMS 2025), 12–16 May 2025, Honolulu, HI, USA}
 }
 
+# OR
 
+Mustafa, R. U., Islam, M. T., & Rothenberg, C. E. (2025). Investigating the impact of channel metrics in 5G NSA and SA on video streaming QoE [GitHub repository]. IEEE/IFIP Network Operations and Management Symposium (NOMS), 12–16 May 2025, Honolulu, HI, USA. https://github.com/razaulmustafa852/savsnsa5g**
