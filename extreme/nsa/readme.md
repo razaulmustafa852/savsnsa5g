@@ -1,0 +1,2 @@
+- During extreme mobility experiments, we only encountered NSA mode. Consequently, all the experiments involving NR - Channel Logs are stored in the “NR” folder, while its corresponding QoE logs are in the “QoE” folder, and its QoE Events are in the “QoE_Events” folder.
+- Consider an example to simplify: NR - Channel logs for experiment "NR_Exp_mc3.csv" has its QoE Logs in "QoE Folder" with name "QoE_Exp_mc3.csv" and QoE Events in "QoE_Events" folder as "QoE_Events_Exp_mc3.csv"
