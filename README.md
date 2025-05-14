@@ -4,4 +4,15 @@ The research community is actively working on evolved approaches to deliver impr
 
 Data is available on this link:
 
+
+## 📝 Folder Descriptions
+
+- **📁 Data/**
+  - Contains:
+    - `extreme/`
+    - `indoor/`
+    - `low-mobility/`
+    - `mobility/`
+    
+
 https://drive.google.com/drive/folders/1tz8HT1FiCaP9Bl9BS0QttHkyrfJp1CCa?usp=sharing 
