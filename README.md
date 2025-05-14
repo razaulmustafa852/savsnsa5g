@@ -31,3 +31,14 @@ Data is available on this link:
 - Each experiment is also divided into separate files, including `Channel logs`, `QoE`, and `QoE Events`. These files can be found in the `experiments` folder corresponding to each use case, such as `Indoor`, `Extreme`, `Low Mobility`, and `Mobility` including both technologies `NSA` and `SA`.
 
 
+## Cite Our Paper
+
+@misc{mustafa2025impact5g,
+  author       = {Raza Ul Mustafa and MD Tariqul Islam and Christian Esteve Rothenberg},
+  title        = {Investigating the Impact of Channel Metrics in 5G NSA and SA on Video Streaming QoE},
+  year         = {2025},
+  howpublished = {\url{https://github.com/razaulmustafa852/savsnsa5g}},
+  note         = {Presented at IEEE/IFIP Network Operations and Management Symposium (NOMS 2025), 12–16 May 2025, Honolulu, HI, USA}
+}
+
+
