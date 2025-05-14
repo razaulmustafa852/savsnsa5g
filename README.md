@@ -28,3 +28,6 @@ Data is available on this link:
 
 - We provide a single file along with each experiment in a single folder as well.
 - If you consider a single file (`all.csv`), it contains NR - Channel Logs. However, there is a column named `source_file` that contains the unique ID of each experiment. You can search its corresponding QoE and QoE Events in files (`QoE.csv`) and (`events.csv`). To find the corresponding QoE and QoE Logs, the column `Eid` will match the `source_file`.
+- Each experiment is also divided into separate files, including `Channel logs`, `QoE`, and `QoE Events`. These files can be found in the `experiments` folder corresponding to each use case, such as `Indoor`, `Extreme`, `Low Mobility`, and `Mobility` including both technologies `NSA` and `SA`.
+
+
