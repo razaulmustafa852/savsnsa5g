@@ -24,5 +24,7 @@ Data is available on this link:
        - `nsa/`
        - `sa/`
     
+## 📝 Files Explanations
 
-https://drive.google.com/drive/folders/1tz8HT1FiCaP9Bl9BS0QttHkyrfJp1CCa?usp=sharing 
+- We provide a single file along with each experiment in a single folder as well.
+- If you consider a single file (`all.csv`), it contains NR - Channel Logs. However, there is a column named `source_file` that contains the unique ID of each experiment. You can search its corresponding QoE and QoE Events in files (`QoE.csv`) and (`events.csv`). To find the corresponding QoE and QoE Logs, the column `Eid` will match the `source_file`.
