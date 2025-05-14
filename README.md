@@ -12,6 +12,11 @@ Data is available on this link:
     - `extreme/`
       - `nsa/`
     - `indoor/`
+       - `op1 - Operator 1/`
+          - `nsa/`
+          - `sa/`
+       - `op2- Operator 2/`
+          - `nsa/`
     - `low-mobility/`
     - `mobility/`
     
